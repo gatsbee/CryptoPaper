@@ -1,4 +1,4 @@
-# CryptoPaper
+# The Crypto Paper
 `" Privacy, Security, and Anonymity For Every Internet User. "`
 
 **[Table of Contents]**
