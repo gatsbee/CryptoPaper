@@ -1,6 +1,17 @@
 # CryptoPaper
 `" Privacy, Security, and Anonymity For Every Internet User. "`
 
+**[Table of Contents]**
+  - [About The Authors](#about-the-authors)
+  - [A Brief Introduction](#a-brief-introduction)
+  - [Common Internet Folk](#common-internet-folk)
+  - [Business and Tech Geeks](#business-and-tech-geeks)
+  - [Government Level Individuals](#government-level-individuals)
+  - [Edward Snowden?](#edward-snowden)
+  - [Conclusion](#conclusion)
+  - [Resources For Further Reading](#resources-for-further-reading)
+  - [RSS Feeds](#rss-feeds)
+
 ## About The Authors
 
 **CryptoSeb**  
