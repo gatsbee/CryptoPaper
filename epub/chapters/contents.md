@@ -1,16 +1,17 @@
 # The Crypto Paper
-`" Privacy, Security, and Anonymity For Every Internet User. "`
+>> Privacy, Security, and Anonymity For Every Internet User.
 
-**[Table of Contents]**
-  - [About The Authors](#about-the-authors)
-  - [A Brief Introduction](#a-brief-introduction)
-  - [Common Internet Folk](#common-internet-folk)
-  - [Business and Tech Geeks](#business-and-tech-geeks)
-  - [Government Level Individuals](#government-level-individuals)
-  - [Edward Snowden?](#edward-snowden)
-  - [Conclusion](#conclusion)
-  - [Resources For Further Reading](#resources-for-further-reading)
-  - [RSS Feeds](#rss-feeds)
+**[Table of Contents]**  
+1. [About The Authors](#about-the-authors)  
+2. [A Brief Introduction](#a-brief-introduction)  
+3. [Common Internet Folk](#common-internet-folk)  
+4. [Business and Tech Geeks](#business-and-tech-geeks)  
+5. [Government Level Individuals](#government-level-individuals)  
+6. [Edward Snowden?](#edward-snowden)  
+7. [Conclusion](#conclusion)  
+8. [Resources For Further Reading](#resources-for-further-reading)  
+9. [RSS Feeds](#rss-feeds)  
+  
 
 ## About The Authors
 
@@ -755,12 +756,5 @@ http://seclists.org/rss/metasploit.rss
 http://seclists.org/rss/wireshark.rss
 
 http://seclists.org/rss/snort.rss
-
-
-
-
-
-# Epub
-An epub version of the paper [here](./epub/TheCryptoPaper.epub). Based on https://pandoc.org/epub.html  
 
 
